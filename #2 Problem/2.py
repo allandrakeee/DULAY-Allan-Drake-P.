@@ -9,4 +9,3 @@ for aline in rainfile:
     
 rainfile.close()
 outfile.close()
-
